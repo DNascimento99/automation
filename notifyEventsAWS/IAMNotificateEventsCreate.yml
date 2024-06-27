@@ -3,7 +3,7 @@ Description: 'Create AWS Lambda and AWS EventBridge for notify events occur in A
 Parameters:
   WebHook1:
     Type: String
-    Default: ''
+    Default: '' 
     Description: "WebHook for notify Microsoft Teams"
   WebHook2:
     Type: String
